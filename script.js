@@ -1,7 +1,7 @@
 const contestants = [
     {
         name: "생산운영 1",
-        image: "image/생산운영 1.PNG"
+        image: "image/생산운영 1.png"
     },
     {
         name: "생산운영 2",
